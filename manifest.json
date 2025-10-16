@@ -2,7 +2,7 @@
   "name": "Paf Casino Sverige",
   "short_name": "Paf Casino Sverige",
   "theme_color": "",
-  "background_color": "#f3f4f1",
+  "background_color": "#000000",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
